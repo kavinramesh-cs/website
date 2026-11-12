@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "website",
+			"path": "."
+		},
+		{
+			"name": "src",
+			"path": "../src"
+		},
+		{
+			"name": "node_modules",
+			"path": "../node_modules"
+		},
+		{
+			"name": ".agents",
+			"path": "../.agents"
+		},
+		{
+			"name": ".aider-desk",
+			"path": "../.aider-desk"
+		}
+	],
+	"settings": {
+		"editor.formatOnSave": false,
+		"editor.formatOnSaveMode": "modificationsIfAvailable"
+	}
+}
